@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    /*outline: 1px black solid;*/
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    width: 1600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.asd{
+    min-height: 670px;
+background-image: url(img/PUTYOURIMAGEHERE.jpg);
+background-size: cover;
+position: relative;
+}
+
+.fake1{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right:0;
+    bottom: 0;
+    background-color: rgba(56, 33, 99, 0.822);
+    z-index: 1;
+}
+
+.fake2{
+    position: absolute;
+    padding-top: 17px;
+    top: 0;
+    left: 0;
+    right:0;
+    bottom: 0;
+    z-index: 2;
+}
+.quw{
+    display: flex;
+    align-items: center;
+padding-left: 15px;
+justify-content: space-around;
+gap: 30px;
+}
+.cfg{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    align-items: center;
+    color: rgb(10, 224, 208);
+    gap: 24px;
+}
+.ccf{
+    display: flex;
+    gap: 24px;
+    align-items: center;
+}
+
+.links{
+    color: white;
+    text-decoration: none;
+font-weight: bold;
+font-size: 13px;
+}
+.cf{
+color: aqua;    
+font-size: 13px;
+}
+.dor{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white ;
+    width: 773px;
+    min-height: 430px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Roboto', sans-serif;
+    flex-direction: column;
+}
+.blueline{
+    height: 1px;
+    background-color: aqua;
+    width: 40px; 
+margin: 15px;
+}
+.lorem{
+ text-align: center; 
+ font-family: 'Roboto', sans-serif;  
+}
+.non{
+border: 2px aqua solid;
+width: 100px;
+padding: 12;
+margin-left: auto;
+margin-right: auto;
+}
+.com{
+    color: aqua;
+    font-size: 18px;
+text-align: center;
+}
+.dots{
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 40px;
+}
+.samo{
+width: 100%;
+background-color: rgb(255, 255, 255);
+height: 406px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.plane{
+
+min-height: 315px;
+}
+.pep{
+
+text-align: center;
+width: 615px;
+
+}
+.canos {
+    display: flex;
+}
+.vidos{
+    width: 100%;
+    min-height: 550px;
+    background-color: azure;
+}
